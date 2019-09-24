@@ -1,5 +1,4 @@
 # HotWordsDisplayPlatform
-HotWordsDisplayPlatform
 基于web端的信息化领域热词展示平台
 
 技术栈：HTML 5+NLP+ECharts+MySQL+爬虫
